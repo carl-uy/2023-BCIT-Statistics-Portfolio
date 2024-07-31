@@ -1,0 +1,34 @@
+Lab Solutions:
+• Lab2_Solutions.R
+Focus: This lab involves statistical analysis using various summary statistics and visualizations. The exercises include calculating measures of central tendency, dispersion, and creating histograms.
+• Lab3_Solutions.R
+Focus: This lab focuses on probability distributions, including normal distribution and binomial distribution. It covers calculating probabilities, expected values, and standard deviations using R functions.
+• Lab4_Solutions.R
+Focus: The lab is centered around hypothesis testing, particularly t-tests. It includes performing one-sample and two-sample t-tests, interpreting p-values, and discussing the implications of the results.
+• Lab5_Solutions.R
+Focus: This lab deals with correlation and regression analysis. It covers calculating correlation coefficients, fitting linear regression models, and interpreting the coefficients and R-squared values.
+• Lab6_Solutions.R
+Focus: The lab explores the concepts of ANOVA (Analysis of Variance). It includes performing one-way ANOVA tests to compare means across multiple groups and understanding the F-statistic and p-values.
+• Lab7_Solutions.R
+Focus: This lab covers chi-squared tests for independence. It includes creating contingency tables, calculating expected frequencies, and interpreting chi-squared statistics.
+• Lab8_Solutions.R
+Focus: The lab focuses on logistic regression analysis. It covers fitting logistic regression models, interpreting the coefficients, and assessing the model's predictive power using ROC curves.
+• Lab9_Solutions.R
+Focus: This lab involves non-parametric statistical tests, including the Mann-Whitney U test and the Kruskal-Wallis test. It emphasizes situations where these tests are appropriate compared to their parametric counterparts.
+• Lab10_Solutions.R
+Focus: The final lab covers advanced topics in regression, including polynomial regression and interaction effects. It includes model selection techniques and validation methods to assess model performance.
+
+Datasets
+Beaver_Dataset.csv: Dataset used in one of the lab projects
+Bitcoin_Dataset.csv: Dataset related to Bitcoin for lab projects
+
+Lecture Notes and Additional Analyses
+Lecture9_Analysis.R: Analysis and notes from Lecture 9 on [specific topic].
+Lecture10_Regression.R: Detailed analysis on regression techniques covered in Lecture 10.
+Lecture10_SampleProblems.R: Sample problems and solutions from Lecture 10.
+ANOVA_Analysis.R: ANOVA (Analysis of Variance) techniques and examples.
+ANOVA_Analysis2.R: Additional analysis related to ANOVA.
+Lecture8_ChiSquared.R: Analysis and notes on Chi-Squared tests.
+Documentation and Notes
+Jan17_Project.R: [Brief description of the project or analysis done on January 17].
+Jan12_Notes.docx: Important notes and documentation from January 12.
